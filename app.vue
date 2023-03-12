@@ -6,5 +6,5 @@
 <script setup>
   import test from 'package-test'
   import KeigoButton from 'keigo-button'
-  console.log(test())
+  console.log(KeigoButton)
 </script>
