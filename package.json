@@ -8,5 +8,9 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "keigo-button": "github:kspace-trk/keigo-button",
+    "package-test": "github:kspace-trk/package-test"
   }
 }

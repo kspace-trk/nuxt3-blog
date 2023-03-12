@@ -1,9 +1,10 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <KeigoButton />
   </div>
 </template>
 <script setup>
-const hoge = ref(0)
-console.log(hoge)
+  import test from 'package-test'
+  import KeigoButton from 'keigo-button'
+  console.log(test())
 </script>
